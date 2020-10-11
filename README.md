@@ -7,6 +7,9 @@ which was cleaned by writing SQL queries and R scripts to make it more useable.
 
 After that we created interactive and insightful dashboards to identify data trends using Microsoft Power BI.
 
+•	Identified that sales drop sharply past a k-4 Lexile difficulty level; this is highlighted by the fact that the best-selling category is Reluctant Reader, accounting for 28% of all sale.
+•	Recommended that Scholastic would be best served by selling books in $5-$7 price range.
+
 This was our first time using Power BI software, it was a great experience and really loved the product.
 
 NOTE: .pbix file is too large to upload over here, hence I have uploaded a video, pdf version of the reports and supporting SQL/R queries which were used during the project.
